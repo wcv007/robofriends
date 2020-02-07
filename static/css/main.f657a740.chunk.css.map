@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACE,WAAY,CACZ,eACF,CAEA,KACE,kBACF","file":"main.f657a740.chunk.css","sourcesContent":[".heading {\r\n  color: brown;\r\n  font-weight: bold;\r\n}\r\n\r\nbody {\r\n  background: blueviolet;\r\n}\r\n"]}
